@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NaverRetrofitTest</string>
+    <string name="tmdb_api_url">https://api.themoviedb.org/3/</string>
+    <string name="api_key">4cb6d8cbafef1791a0b3c0e5f35dfb7f</string>
+    <string name="page">1</string>
+    <string name="language">ko-KR</string>
+</resources>
